@@ -2,7 +2,7 @@ Hi, I’m Miranda👋
 
 Languages and Tools:
 
-<img src='http://3con14.biz/code/_data/js/intro/js-logo.png' width='25'> <img src='https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png' width='50'> <img src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png' width='55'>
+<img src='http://3con14.biz/code/_data/js/intro/js-logo.png' width='25'> <img src='https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png' width='50'> <img src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png' width='75'>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
