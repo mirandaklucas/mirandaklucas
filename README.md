@@ -10,7 +10,7 @@ Hi, I’m Miranda👋
 
 💞️ I’m looking to collaborate on any project small or large, I want to grow my knowledge in any way 🧠
 
-📫 How to reach me
+📫 How to reach me, feel free to look at any of my GitHub projects
   
   <a href="http://linkedin.com/in/mirandaklucas"><img src="https://i.postimg.cc/BZkMCpWW/linkedin.png" width='50' height='50' /></a>
 <!---
