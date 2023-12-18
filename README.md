@@ -6,7 +6,7 @@ Hi, I’m Miranda👋
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently mastering JavaScript, REACT, CSS
 - 💞️ I’m looking to collaborate on any project small or large, I want to grow my knowledge in any way 🧠
--  📫 How to reach me <Link to='http://linkedin.com/in/mirandaklucas'><img scr='https://github.com/mirandaklucas/mirandaklucas/assets/146026256/11b72262-223b-4651-ae88-fba8cda9d460' width='50' height='50'></Link>
+-  📫 How to reach me [<img scr='https://github.com/mirandaklucas/mirandaklucas/assets/146026256/11b72262-223b-4651-ae88-fba8cda9d460' (http://linkedin.com/in/mirandaklucas) width='50' height='50'>]
 
 <!---
 mirandaklucas/mirandaklucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
