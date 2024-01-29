@@ -6,13 +6,13 @@ Hi, I’m Miranda👋
 
 👀 I’m interested in Full stack Software Development
 
-🌱 I’m currently mastering JavaScript, REACT, CSS
+🌱 I’m currently mastering JavaScript, REACT, HTML & CSS
 
 💞️ I’m looking to collaborate on any project small or large, I want to grow my knowledge in any way 🧠
 
 📫 How to reach me:
   
-  <a href="http://linkedin.com/in/mirandaklucas"><img src="[https://icons8.com/icon/64154/linkedin](https://icons8.com/icon/kGCRpQr6bnW8/linkedin)" width='100' height='100' /></a>
+  <a href="http://linkedin.com/in/mirandaklucas"><img src="https://icons8.com/icon/kGCRpQr6bnW8/linkedin" width='100' height='100' /></a>
 <!---
 mirandaklucas/mirandaklucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
