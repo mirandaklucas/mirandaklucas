@@ -6,7 +6,7 @@ Hi, I’m Miranda👋
 
 👀 I’m interested in Full stack Software Development
 
-🌱 I’m currently mastering JavaScript, TypeScript, REACT, HTML & CSS, Node.js.
+🌱 I’m currently mastering JavaScript, TypeScript, REACT, HTML & CSS, NPM.
 
 💞️ I’m looking to collaborate on any project small or large, I want to grow my knowledge in any way 🧠
 
