@@ -12,8 +12,8 @@ Hi, I’m Miranda👋
 
 📫 How to reach me:
   
-  <a href="http://linkedin.com/in/mirandaklucas"><img scr='https://i.postimg.cc/LnBMW7qM/linkedin-512x512.png' border='0' alt='linkedin-512x512' width='50'height='50'</img>
-</a>
+<img scr='https://i.postimg.cc/LnBMW7qM/linkedin-512x512.png' border='0' alt='linkedin-512x512' width='50'height='50' href="http://linkedin.com/in/mirandaklucas"</img>
+
 <!---
 mirandaklucas/mirandaklucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
